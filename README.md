@@ -13,7 +13,7 @@ Turns financial news headlines and price movement into explainable market signal
 
 ## 🖥️ Preview
 
-![FinSentAI dashboard](screenshots/dashboard.png)
+![FinSentAI dashboard](screenshots/dashboard.jpg)
 
 *Financial intelligence dashboard: sentiment analysis, market context, analytics and insights.*
 
