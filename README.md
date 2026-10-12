@@ -7,7 +7,7 @@ Turns financial news headlines and price movement into explainable market signal
 
 > ⚠️ Research / educational project. Signals are informational only and are not financial advice.
 
-[**🚀 Live Demo**](https://YOUR-LIVE-URL) · [**LinkedIn**](https://linkedin.com/in/ratnesh-pathak-087466279) · [**Email**](mailto:pathakratnesh03@gmail.com)
+[**🚀 Live Demo**](https://finsentai.onrender.com/) · [**LinkedIn**](https://linkedin.com/in/ratnesh-pathak-087466279) · [**Email**](mailto:pathakratnesh03@gmail.com)
 
 ---
 
