@@ -9,6 +9,8 @@ Turns financial news headlines and price movement into explainable market signal
 
 [**🚀 Live Demo**](https://finsentai.onrender.com/) · [**LinkedIn**](https://linkedin.com/in/ratnesh-pathak-087466279) · [**Email**](mailto:pathakratnesh03@gmail.com)
 
+*Hosted on a free tier: the first load may take up to a minute while the app wakes up.*
+
 ---
 
 ## 🖥️ Preview
